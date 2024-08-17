@@ -15,5 +15,3 @@ if you don't login, you can't post but you can see other people's posts.
 <br>
 <img src="ss/yeni profil.png" alt="yeni profil" width="800" height="500">
 <br>
-<img src="ss/kullanıcı aktivitelerinden herhangi birine bastığında açılan popup.png" alt="kullanıcı aktivitelerinden herhangi birine bastığında açılan popup" width="800" height="500">
-<br>
